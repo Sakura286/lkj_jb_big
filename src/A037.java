@@ -6,7 +6,7 @@ public class A037
     {
         Scanner input = new Scanner(System.in);
         System.out.print("Please input 10 numbers: ");
-
+	// Produce some comment;
         // 思考这里为什么要定义一个 int 常量
         final int NUM = 10;
 
